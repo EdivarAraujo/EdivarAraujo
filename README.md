@@ -15,6 +15,7 @@
   
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdivarAraujo)](https://github.com/anuraghazra/github-readme-stats)
 
 <font color="#ff0">Tecnologia é tudo...vamos de programação 👨‍💻</font>
 
