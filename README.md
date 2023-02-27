@@ -23,4 +23,4 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://edivar23araujo@gmail.com)
 
 
-![Snake animation](https://github.com/EdivarAraujo/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
+
